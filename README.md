@@ -30,9 +30,9 @@ https://stackoverflow.com/questions/37792777/how-can-i-make-comic-sans-ms-text-l
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Bowei Li (C) 2021 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2021 Bowei Li visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
